@@ -26,3 +26,19 @@ estruturaCondicional/EstruturaCondicionalSimplesExemplo01.java
  estruturaCondicional.EstruturaCondicionalSimplesExemplo01
 estruturaCondicional/EstruturaCondicionalCompostaExemplo01.java
  estruturaCondicional.EstruturaCondicionalCompostaExemplo01
+estruturaCondicional/Exercicio01.java
+ estruturaCondicional.Exercicio01
+estruturaCondicional/Exercicio02.java
+ estruturaCondicional.Exercicio02
+estruturaCondicional/Exercicio03.java
+ estruturaCondicional.Exercicio03
+estruturaCondicional/Exercicio04.java
+ estruturaCondicional.Exercicio04
+estruturaCondicional/Exercicio05.java
+ estruturaCondicional.Exercicio05
+estruturaCondicional/Exercicio06.java
+ estruturaCondicional.Exercicio06
+estruturaCondicional/Exercicio07.java
+ estruturaCondicional.Exercicio07
+estruturaCondicional/Exercicio08.java
+ estruturaCondicional.Exercicio08
