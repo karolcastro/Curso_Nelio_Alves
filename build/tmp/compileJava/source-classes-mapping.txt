@@ -42,3 +42,19 @@ estruturaCondicional/Exercicio07.java
  estruturaCondicional.Exercicio07
 estruturaCondicional/Exercicio08.java
  estruturaCondicional.Exercicio08
+estruturaRepetitiva/Exercicio01.java
+ estruturaRepetitiva.Exercicio01
+estruturaRepetitiva/Exercicio02.java
+ estruturaRepetitiva.Exercicio02
+estruturaRepetitiva/Exercicio03.java
+ estruturaRepetitiva.Exercicio03
+estruturaRepetitiva/estruturaRepetitivaFor/Exercicio01.java
+ estruturaRepetitiva.estruturaRepetitivaFor.Exercicio01
+estruturaRepetitiva/estruturaRepetitivaFor/Exercicio02.java
+ estruturaRepetitiva.estruturaRepetitivaFor.Exercicio02
+estruturaRepetitiva/estruturaRepetitivaFor/Exercicio03.java
+ estruturaRepetitiva.estruturaRepetitivaFor.Exercicio03
+topicosBasicosJava/Bitwise.java
+ topicosBasicosJava.Bitwise
+topicosBasicosJava/FuncoesParaString.java
+ topicosBasicosJava.FuncoesParaString
