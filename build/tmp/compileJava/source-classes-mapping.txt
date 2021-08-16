@@ -46,8 +46,8 @@ estruturaSequencial/Exercicio01.java
  estruturaSequencial.Exercicio01
 orientacaoAObjetos/exercicioComOrientacaoAObjetos/retangulo/application/RetanguloProgram.java
  orientacaoAObjetos.exercicioComOrientacaoAObjetos.retangulo.application.RetanguloProgram
-construtores/product/entities/Product.java
- construtores.product.entities.Product
+estruturaRepetitiva/estruturaRepetitivaFor/Exercicio03.java
+ estruturaRepetitiva.estruturaRepetitivaFor.Exercicio03
 estruturaCondicional/Exercicio05.java
  estruturaCondicional.Exercicio05
 estruturaSequencial/ExercicioSaidaDeDados.java
@@ -60,8 +60,8 @@ estruturaCondicional/Exercicio04.java
  estruturaCondicional.Exercicio04
 topicosBasicosJava/Split.java
  topicosBasicosJava.Split
-construtores/product/application/Program.java
- construtores.product.application.Program
+estruturaSequencial/Exercicio05.java
+ estruturaSequencial.Exercicio05
 orientacaoAObjetos/membrosEstaticos/calculator/application/CalculatorProgram.java
  orientacaoAObjetos.membrosEstaticos.calculator.application.CalculatorProgram
 estruturaSequencial/FuncaoMatematica.java
@@ -94,7 +94,7 @@ orientacaoAObjetos/exercicioComOrientacaoAObjetos/retangulo/entities/RetanguloEn
  orientacaoAObjetos.exercicioComOrientacaoAObjetos.retangulo.entities.RetanguloEntities
 estruturaSequencial/Exercicio02.java
  estruturaSequencial.Exercicio02
-estruturaSequencial/Exercicio05.java
- estruturaSequencial.Exercicio05
-estruturaRepetitiva/estruturaRepetitivaFor/Exercicio03.java
- estruturaRepetitiva.estruturaRepetitivaFor.Exercicio03
+construtores/product/entities/Product.java
+ construtores.product.entities.Product
+construtores/product/application/Program.java
+ construtores.product.application.Program
