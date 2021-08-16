@@ -16,7 +16,7 @@ public class CotacaoProgram {
         System.out.println("How many dollars will be bought? ");
         double dollarQuantity = start.nextDouble();
 
-        System.out.println(" Amount to be paid in reais = " + CurrencyConverter.cotacao(dollarPrice, dollarQuantity));
+        System.out.println("Amount to be paid in reais = " + CurrencyConverter.cotacao(dollarPrice, dollarQuantity));
 
     }
 }
