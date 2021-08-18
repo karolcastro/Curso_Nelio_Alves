@@ -14,19 +14,21 @@ public class EmployeeProgram {
         EmployeeEntities employeeEntities = new EmployeeEntities();
 
         System.out.println("The name of employee:");
-        employeeEntities.name = start.next();
+        String name = start.next();
 
         System.out.println("The gross salary:");
-        employeeEntities.grossSalary = start.nextDouble();
+        double grossSalary = start.nextDouble();
 
         System.out.println("The tax:");
-        employeeEntities.tax = start.nextDouble();
+        double tax = start.nextDouble();
 
         System.out.println("Employee: " + employeeEntities);
 
         System.out.println();
         System.out.println("wich percentage to increase salary: ");
         double percentage = start.nextDouble();
+
+        employeeEntities.setGrossSalary(100.000);// todo
         employeeEntities.increaseSalary(percentage);
 
         System.out.println();
