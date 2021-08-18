@@ -1,100 +1,127 @@
-estruturaRepetitiva/Exercicio03.java
- estruturaRepetitiva.Exercicio03
-estruturaSequencial/Exercicio03.java
- estruturaSequencial.Exercicio03
-estruturaCondicional/Exercicio02.java
- estruturaCondicional.Exercicio02
-estruturaRepetitiva/estruturaRepetitivaFor/Exercicio01.java
- estruturaRepetitiva.estruturaRepetitivaFor.Exercicio01
-topicosBasicosJava/HigherNumber.java
- topicosBasicosJava.HigherNumber
-estruturaCondicional/Exercicio08.java
- estruturaCondicional.Exercicio08
-orientacaoAObjetos/membrosEstaticos/calculator/utils/CalculatorUtils.java
- orientacaoAObjetos.membrosEstaticos.calculator.utils.CalculatorUtils
-estruturaRepetitiva/estruturaRepetitivaFor/Exercicio02.java
- estruturaRepetitiva.estruturaRepetitivaFor.Exercicio02
-estruturaCondicional/Exercicio01.java
- estruturaCondicional.Exercicio01
-estruturaCondicional/Exercicio07.java
- estruturaCondicional.Exercicio07
-orientacaoAObjetos/exercicioComOrientacaoAObjetos/student/entities/StudentEntities.java
- orientacaoAObjetos.exercicioComOrientacaoAObjetos.student.entities.StudentEntities
-topicosBasicosJava/FuncoesParaString.java
- topicosBasicosJava.FuncoesParaString
-estruturaSequencial/Exercicio04.java
- estruturaSequencial.Exercicio04
-estruturaRepetitiva/Exercicio02.java
- estruturaRepetitiva.Exercicio02
-estruturaCondicional/Exercicio06.java
- estruturaCondicional.Exercicio06
-estruturaCondicional/Exercicio03.java
- estruturaCondicional.Exercicio03
-orientacaoAObjetos/exercicioComOrientacaoAObjetos/employes/application/EmployeeProgram.java
- orientacaoAObjetos.exercicioComOrientacaoAObjetos.employes.application.EmployeeProgram
-orientacaoAObjetos/exercicioComOrientacaoAObjetos/student/applicaton/StudentProgram.java
- orientacaoAObjetos.exercicioComOrientacaoAObjetos.student.applicaton.StudentProgram
-orientacaoAObjetos/membrosEstaticos/cotacao/application/CotacaoProgram.java
- orientacaoAObjetos.membrosEstaticos.cotacao.application.CotacaoProgram
-orientacaoAObjetos/exercicioComOrientacaoAObjetos/triangle/application/ExercicioComOrientacaoAObjetos.java
- orientacaoAObjetos.exercicioComOrientacaoAObjetos.triangle.application.ExercicioComOrientacaoAObjetos
-topicosBasicosJava/HigherNumberWithMax.java
- topicosBasicosJava.HigherNumberWithMax
-orientacaoAObjetos/ExercicioSemOrientacaoAObjetos.java
- orientacaoAObjetos.ExercicioSemOrientacaoAObjetos
-estruturaSequencial/Exercicio01.java
- estruturaSequencial.Exercicio01
-orientacaoAObjetos/exercicioComOrientacaoAObjetos/retangulo/application/RetanguloProgram.java
- orientacaoAObjetos.exercicioComOrientacaoAObjetos.retangulo.application.RetanguloProgram
-estruturaRepetitiva/estruturaRepetitivaFor/Exercicio03.java
- estruturaRepetitiva.estruturaRepetitivaFor.Exercicio03
-estruturaCondicional/Exercicio05.java
- estruturaCondicional.Exercicio05
-estruturaSequencial/ExercicioSaidaDeDados.java
- estruturaSequencial.ExercicioSaidaDeDados
-orientacaoAObjetos/exercicioComOrientacaoAObjetos/triangle/entities/Triangle.java
- orientacaoAObjetos.exercicioComOrientacaoAObjetos.triangle.entities.Triangle
+br/com/cursoNelioAlves/construtores/product/application/Program.java
+ br.com.cursoNelioAlves.construtores.product.application.Program
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/triangle/entities/Triangle.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.triangle.entities.Triangle
+br/com/cursoNelioAlves/estruturaRepetitiva/estruturaRepetitivaFor/Exercicio01.java
+ br.com.cursoNelioAlves.estruturaRepetitiva.estruturaRepetitivaFor.Exercicio01
+br/com/cursoNelioAlves/estruturaCondicional/Exercicio04.java
+ br.com.cursoNelioAlves.estruturaCondicional.Exercicio04
+br/com/cursoNelioAlves/vetoresArrays/listas/employees/entities/Employees.java
+ br.com.cursoNelioAlves.vetoresArrays.listas.employees.entities.Employees
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/student/entities/StudentEntities.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.student.entities.StudentEntities
+br/com/cursoNelioAlves/orientacaoAObjetos/ExercicioSemOrientacaoAObjetos.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.ExercicioSemOrientacaoAObjetos
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/triangle/application/ExercicioComOrientacaoAObjetos.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.triangle.application.ExercicioComOrientacaoAObjetos
+br/com/cursoNelioAlves/topicosBasicosJava/HigherNumberWithMax.java
+ br.com.cursoNelioAlves.topicosBasicosJava.HigherNumberWithMax
+br/com/cursoNelioAlves/construtores/product/entities/Product.java
+ br.com.cursoNelioAlves.construtores.product.entities.Product
+br/com/cursoNelioAlves/vetoresArrays/Exemplo01.java
+ br.com.cursoNelioAlves.vetoresArrays.Exemplo01
+br/com/cursoNelioAlves/topicosBasicosJava/Bitwise.java
+ br.com.cursoNelioAlves.topicosBasicosJava.Bitwise
+br/com/cursoNelioAlves/estruturaSequencial/Exercicio04.java
+ br.com.cursoNelioAlves.estruturaSequencial.Exercicio04
+br/com/cursoNelioAlves/estruturaSequencial/ExercicioSaidaDeDados.java
+ br.com.cursoNelioAlves.estruturaSequencial.ExercicioSaidaDeDados
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/employes/entities/EmployeeEntities.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.employes.entities.EmployeeEntities
+br/com/cursoNelioAlves/estruturaCondicional/Exercicio03.java
+ br.com.cursoNelioAlves.estruturaCondicional.Exercicio03
+br/com/cursoNelioAlves/vetoresArrays/rent/application/RentProgram.java
+ br.com.cursoNelioAlves.vetoresArrays.rent.application.RentProgram
+ br.com.cursoNelioAlves.vetoresArrays.rent.application.RentProgram$Program
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/product/entities/Product.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.product.entities.Product
+br/com/cursoNelioAlves/topicosBasicosJava/HigherNumber.java
+ br.com.cursoNelioAlves.topicosBasicosJava.HigherNumber
+br/com/cursoNelioAlves/orientacaoAObjetos/membrosEstaticos/calculator/application/CalculatorProgram.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.membrosEstaticos.calculator.application.CalculatorProgram
+br/com/cursoNelioAlves/estruturaSequencial/Exercicio03.java
+ br.com.cursoNelioAlves.estruturaSequencial.Exercicio03
+br/com/cursoNelioAlves/estruturaCondicional/Exercicio05.java
+ br.com.cursoNelioAlves.estruturaCondicional.Exercicio05
+br/com/cursoNelioAlves/estruturaCondicional/Exercicio02.java
+ br.com.cursoNelioAlves.estruturaCondicional.Exercicio02
+br/com/cursoNelioAlves/estruturaRepetitiva/estruturaRepetitivaFor/Exercicio02.java
+ br.com.cursoNelioAlves.estruturaRepetitiva.estruturaRepetitivaFor.Exercicio02
+br/com/cursoNelioAlves/orientacaoAObjetos/membrosEstaticos/cotacao/application/CotacaoProgram.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.membrosEstaticos.cotacao.application.CotacaoProgram
+br/com/cursoNelioAlves/estruturaCondicional/EstruturaCondicionalCompostaExemplo01.java
+ br.com.cursoNelioAlves.estruturaCondicional.EstruturaCondicionalCompostaExemplo01
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/employes/application/EmployeeProgram.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.employes.application.EmployeeProgram
+br/com/cursoNelioAlves/vetoresArrays/listas/employees/application/EmployeesProgram.java
+ br.com.cursoNelioAlves.vetoresArrays.listas.employees.application.EmployeesProgram
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/product/application/Program.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.product.application.Program
+br/com/cursoNelioAlves/vetoresArrays/matriz/MatrizProgram.java
+ br.com.cursoNelioAlves.vetoresArrays.matriz.MatrizProgram
+br/com/cursoNelioAlves/estruturaSequencial/Exercicio06.java
+ br.com.cursoNelioAlves.estruturaSequencial.Exercicio06
+br/com/cursoNelioAlves/estruturaCondicional/Exercicio08.java
+ br.com.cursoNelioAlves.estruturaCondicional.Exercicio08
+br/com/cursoNelioAlves/estruturaRepetitiva/Exercicio01.java
+ br.com.cursoNelioAlves.estruturaRepetitiva.Exercicio01
+br/com/cursoNelioAlves/orientacaoAObjetos/membrosEstaticos/cotacao/utls/CurrencyConverter.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.membrosEstaticos.cotacao.utls.CurrencyConverter
+br/com/cursoNelioAlves/estruturaCondicional/Exercicio01.java
+ br.com.cursoNelioAlves.estruturaCondicional.Exercicio01
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/retangulo/application/RetanguloProgram.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.retangulo.application.RetanguloProgram
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/student/applicaton/StudentProgram.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.student.applicaton.StudentProgram
+br/com/cursoNelioAlves/estruturaCondicional/Exercicio07.java
+ br.com.cursoNelioAlves.estruturaCondicional.Exercicio07
+br/com/cursoNelioAlves/estruturaCondicional/Exercicio06.java
+ br.com.cursoNelioAlves.estruturaCondicional.Exercicio06
 Main.java
  Main
-estruturaCondicional/Exercicio04.java
- estruturaCondicional.Exercicio04
-topicosBasicosJava/Split.java
- topicosBasicosJava.Split
-estruturaSequencial/Exercicio05.java
- estruturaSequencial.Exercicio05
-orientacaoAObjetos/membrosEstaticos/calculator/application/CalculatorProgram.java
- orientacaoAObjetos.membrosEstaticos.calculator.application.CalculatorProgram
-estruturaSequencial/FuncaoMatematica.java
- estruturaSequencial.FuncaoMatematica
-estruturaCondicional/EstruturaCondicionalSimplesExemplo01.java
- estruturaCondicional.EstruturaCondicionalSimplesExemplo01
-orientacaoAObjetos/exercicioComOrientacaoAObjetos/product/entities/Product.java
- orientacaoAObjetos.exercicioComOrientacaoAObjetos.product.entities.Product
-orientacaoAObjetos/exercicioComOrientacaoAObjetos/product/application/Program.java
- orientacaoAObjetos.exercicioComOrientacaoAObjetos.product.application.Program
-topicosBasicosJava/Bitwise.java
- topicosBasicosJava.Bitwise
-estruturaSequencial/Exercicio06.java
- estruturaSequencial.Exercicio06
-estruturaRepetitiva/Exercicio01.java
- estruturaRepetitiva.Exercicio01
-orientacaoAObjetos/exercicioComOrientacaoAObjetos/employes/entities/EmployeeEntities.java
- orientacaoAObjetos.exercicioComOrientacaoAObjetos.employes.entities.EmployeeEntities
-estruturaSequencial/ExercicioExemplo1.java
- estruturaSequencial.ExercicioExemplo1
-estruturaSequencial/ExercicioEntradaDeDadosTexto.java
- estruturaSequencial.ExercicioEntradaDeDadosTexto
-estruturaSequencial/ExercicioEntradaDeDados.java
- estruturaSequencial.ExercicioEntradaDeDados
-estruturaCondicional/EstruturaCondicionalCompostaExemplo01.java
- estruturaCondicional.EstruturaCondicionalCompostaExemplo01
-orientacaoAObjetos/membrosEstaticos/cotacao/utls/CurrencyConverter.java
- orientacaoAObjetos.membrosEstaticos.cotacao.utls.CurrencyConverter
-orientacaoAObjetos/exercicioComOrientacaoAObjetos/retangulo/entities/RetanguloEntities.java
- orientacaoAObjetos.exercicioComOrientacaoAObjetos.retangulo.entities.RetanguloEntities
-estruturaSequencial/Exercicio02.java
- estruturaSequencial.Exercicio02
-construtores/product/entities/Product.java
- construtores.product.entities.Product
-construtores/product/application/Program.java
- construtores.product.application.Program
+br/com/cursoNelioAlves/estruturaSequencial/ExercicioExemplo1.java
+ br.com.cursoNelioAlves.estruturaSequencial.ExercicioExemplo1
+br/com/cursoNelioAlves/topicosBasicosJava/FuncoesParaString.java
+ br.com.cursoNelioAlves.topicosBasicosJava.FuncoesParaString
+br/com/cursoNelioAlves/estruturaRepetitiva/Exercicio02.java
+ br.com.cursoNelioAlves.estruturaRepetitiva.Exercicio02
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/encapsulamento/application/EncapsulamentoProgram.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.encapsulamento.application.EncapsulamentoProgram
+br/com/cursoNelioAlves/estruturaSequencial/Exercicio01.java
+ br.com.cursoNelioAlves.estruturaSequencial.Exercicio01
+br/com/cursoNelioAlves/estruturaSequencial/ExercicioEntradaDeDadosTexto.java
+ br.com.cursoNelioAlves.estruturaSequencial.ExercicioEntradaDeDadosTexto
+br/com/cursoNelioAlves/vetoresArrays/listas/ListProgram.java
+ br.com.cursoNelioAlves.vetoresArrays.listas.ListProgram
+br/com/cursoNelioAlves/estruturaRepetitiva/Exercicio03.java
+ br.com.cursoNelioAlves.estruturaRepetitiva.Exercicio03
+br/com/cursoNelioAlves/estruturaSequencial/FuncaoMatematica.java
+ br.com.cursoNelioAlves.estruturaSequencial.FuncaoMatematica
+br/com/cursoNelioAlves/estruturaSequencial/ExercicioEntradaDeDados.java
+ br.com.cursoNelioAlves.estruturaSequencial.ExercicioEntradaDeDados
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/retangulo/entities/RetanguloEntities.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.retangulo.entities.RetanguloEntities
+br/com/cursoNelioAlves/topicosBasicosJava/Split.java
+ br.com.cursoNelioAlves.topicosBasicosJava.Split
+br/com/cursoNelioAlves/estruturaSequencial/Exercicio05.java
+ br.com.cursoNelioAlves.estruturaSequencial.Exercicio05
+br/com/cursoNelioAlves/vetoresArrays/rent/entities/Rent.java
+ br.com.cursoNelioAlves.vetoresArrays.rent.entities.Rent
+br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/encapsulamento/entities/Account.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.encapsulamento.entities.Account
+br/com/cursoNelioAlves/estruturaSequencial/Exercicio02.java
+ br.com.cursoNelioAlves.estruturaSequencial.Exercicio02
+br/com/cursoNelioAlves/estruturaCondicional/EstruturaCondicionalSimplesExemplo01.java
+ br.com.cursoNelioAlves.estruturaCondicional.EstruturaCondicionalSimplesExemplo01
+br/com/cursoNelioAlves/orientacaoAObjetos/membrosEstaticos/calculator/utils/CalculatorUtils.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.membrosEstaticos.calculator.utils.CalculatorUtils
+br/com/cursoNelioAlves/estruturaRepetitiva/estruturaRepetitivaFor/Exercicio03.java
+ br.com.cursoNelioAlves.estruturaRepetitiva.estruturaRepetitivaFor.Exercicio03
+br/com/cursoNelioAlves/vetoresArrays/matriz/PositionProgram.java
+ br.com.cursoNelioAlves.vetoresArrays.matriz.PositionProgram
+br/com/cursoNelioAlves/topicosEspeciaisDateCalendar/DateProgram.java
+ br.com.cursoNelioAlves.topicosEspeciaisDateCalendar.DateProgram
+br/com/cursoNelioAlves/topicosEspeciaisDateCalendar/SomandoDatas.java
+ br.com.cursoNelioAlves.topicosEspeciaisDateCalendar.SomandoDatas
+br/com/cursoNelioAlves/topicosEspeciaisDateCalendar/LocalizandoOsValoresDaData.java
+ br.com.cursoNelioAlves.topicosEspeciaisDateCalendar.LocalizandoOsValoresDaData
