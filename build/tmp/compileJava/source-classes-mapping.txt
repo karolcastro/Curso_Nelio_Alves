@@ -125,3 +125,9 @@ br/com/cursoNelioAlves/topicosEspeciaisDateCalendar/SomandoDatas.java
  br.com.cursoNelioAlves.topicosEspeciaisDateCalendar.SomandoDatas
 br/com/cursoNelioAlves/topicosEspeciaisDateCalendar/LocalizandoOsValoresDaData.java
  br.com.cursoNelioAlves.topicosEspeciaisDateCalendar.LocalizandoOsValoresDaData
+br/com/cursoNelioAlves/enumeracaoComposicao/orderStatus/entities/Order.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.orderStatus.entities.Order
+br/com/cursoNelioAlves/enumeracaoComposicao/orderStatus/entitiesEnums/OrderStatus.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.orderStatus.entitiesEnums.OrderStatus
+br/com/cursoNelioAlves/enumeracaoComposicao/orderStatus/application/OrderStatusProgram.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.orderStatus.application.OrderStatusProgram
