@@ -137,7 +137,13 @@ br/com/cursoNelioAlves/enumeracaoComposicao/orderStatusEx/entities/OrderStatuss.
  br.com.cursoNelioAlves.enumeracaoComposicao.orderStatusEx.entities.OrderStatuss
 br/com/cursoNelioAlves/enumeracaoComposicao/composicao/entities/HourContract.java
  br.com.cursoNelioAlves.enumeracaoComposicao.composicao.entities.HourContract
-br/com/cursoNelioAlves/enumeracaoComposicao/composicao/application/Contracts.java
- br.com.cursoNelioAlves.enumeracaoComposicao.composicao.application.Contracts
 br/com/cursoNelioAlves/enumeracaoComposicao/composicao/entities/Worker.java
  br.com.cursoNelioAlves.enumeracaoComposicao.composicao.entities.Worker
+br/com/cursoNelioAlves/enumeracaoComposicao/composicao2/entities/Comment.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicao2.entities.Comment
+br/com/cursoNelioAlves/enumeracaoComposicao/composicao/application/Contracts.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicao.application.Contracts
+br/com/cursoNelioAlves/enumeracaoComposicao/composicao2/entities/Post.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicao2.entities.Post
+br/com/cursoNelioAlves/enumeracaoComposicao/composicao2/application/PostProgram.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicao2.application.PostProgram

@@ -24,5 +24,7 @@ public class PostProgram {
         post1.addComment(comment1);
         post1.addComment(comment2);
 
+        System.out.println(post1);
+
     }
 }
