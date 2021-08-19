@@ -21,10 +21,20 @@ public class PostProgram {
                 "I'm going to visit this wonderful country",
                 12);
 
+        Comment comment3 = new Comment("Good night");
+        Comment comment4 = new Comment("May the force be with you");
+        Post post2 = new Post(sdf.parse("28/07/2018 23:14:19"),
+                "Good night guys",
+                "See you tomorrow",
+                5);
+
         post1.addComment(comment1);
         post1.addComment(comment2);
+        post2.addComment(comment3);
+        post2.addComment(comment4);
 
         System.out.println(post1);
+        System.out.println(post2);
 
     }
 }
