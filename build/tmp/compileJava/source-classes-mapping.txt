@@ -125,9 +125,19 @@ br/com/cursoNelioAlves/topicosEspeciaisDateCalendar/SomandoDatas.java
  br.com.cursoNelioAlves.topicosEspeciaisDateCalendar.SomandoDatas
 br/com/cursoNelioAlves/topicosEspeciaisDateCalendar/LocalizandoOsValoresDaData.java
  br.com.cursoNelioAlves.topicosEspeciaisDateCalendar.LocalizandoOsValoresDaData
-br/com/cursoNelioAlves/enumeracaoComposicao/orderStatus/entities/Order.java
- br.com.cursoNelioAlves.enumeracaoComposicao.orderStatus.entities.Order
-br/com/cursoNelioAlves/enumeracaoComposicao/orderStatus/entitiesEnums/OrderStatus.java
- br.com.cursoNelioAlves.enumeracaoComposicao.orderStatus.entitiesEnums.OrderStatus
-br/com/cursoNelioAlves/enumeracaoComposicao/orderStatus/application/OrderStatusProgram.java
- br.com.cursoNelioAlves.enumeracaoComposicao.orderStatus.application.OrderStatusProgram
+br/com/cursoNelioAlves/enumeracaoComposicao/composicao/entities/WorkerLevel.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicao.entities.WorkerLevel
+br/com/cursoNelioAlves/enumeracaoComposicao/orderStatusEx/entities/OrderEntities.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.orderStatusEx.entities.OrderEntities
+br/com/cursoNelioAlves/enumeracaoComposicao/orderStatusEx/application/OrderStatusPro.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.orderStatusEx.application.OrderStatusPro
+br/com/cursoNelioAlves/enumeracaoComposicao/composicao/entities/Department.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicao.entities.Department
+br/com/cursoNelioAlves/enumeracaoComposicao/orderStatusEx/entities/OrderStatuss.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.orderStatusEx.entities.OrderStatuss
+br/com/cursoNelioAlves/enumeracaoComposicao/composicao/entities/HourContract.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicao.entities.HourContract
+br/com/cursoNelioAlves/enumeracaoComposicao/composicao/application/Contracts.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicao.application.Contracts
+br/com/cursoNelioAlves/enumeracaoComposicao/composicao/entities/Worker.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicao.entities.Worker
