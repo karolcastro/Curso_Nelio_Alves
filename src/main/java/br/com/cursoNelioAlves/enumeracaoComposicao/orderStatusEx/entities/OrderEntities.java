@@ -1,20 +1,17 @@
-package br.com.cursoNelioAlves.enumeracaoComposicao.orderStatus.entities;
-
-import br.com.cursoNelioAlves.enumeracaoComposicao.orderStatus.entitiesEnums.OrderStatus;
+package br.com.cursoNelioAlves.enumeracaoComposicao.orderStatusEx.entities;
 
 import java.util.Date;
 
-public class Order {
-
+public class OrderEntities {
     private Integer id;
     private Date moment;
-    private OrderStatus status;
+    private OrderStatuss status;
 
-    public Order() {
+    public OrderEntities() {
 
     }
 
-    public Order(Integer id, Date moment, OrderStatus status) {
+    public OrderEntities(Integer id, Date moment, OrderStatuss status) {
         this.id = id;
         this.moment = moment;
         this.status = status;
@@ -36,11 +33,11 @@ public class Order {
         this.moment = moment;
     }
 
-    public OrderStatus getStatus() {
+    public OrderStatuss getStatus() {
         return status;
     }
 
-    public void setStatus(OrderStatus status) {
+    public void setStatus(OrderStatuss status) {
         this.status = status;
     }
 
