@@ -42,6 +42,7 @@ public class HourContract {
     }
 
     public double totalValue() {
+
         return valuePerHours * hours;
     }
 }
