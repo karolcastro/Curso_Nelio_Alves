@@ -1,13 +1,10 @@
-package br.com.cursoNelioAlves.heranca.sobreposicao.application;
+package br.com.cursoNelioAlves.herancaPolimorfismo.sobreposicao.application;
 
-import br.com.cursoNelioAlves.heranca.sobreposicao.entities.Account;
-import br.com.cursoNelioAlves.heranca.sobreposicao.entities.BusinessAccount;
-import br.com.cursoNelioAlves.heranca.sobreposicao.entities.SavingsAccount;
+import br.com.cursoNelioAlves.herancaPolimorfismo.sobreposicao.entities.Account;
+import br.com.cursoNelioAlves.herancaPolimorfismo.sobreposicao.entities.BusinessAccount;
+import br.com.cursoNelioAlves.herancaPolimorfismo.sobreposicao.entities.SavingsAccount;
 
 import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Locale;
-import java.util.Scanner;
 
 public class AccountProgram {
     public static void main(String[] args) throws ParseException {

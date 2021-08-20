@@ -1,4 +1,4 @@
-package br.com.cursoNelioAlves.heranca.ex01.application;
+package br.com.cursoNelioAlves.herancaPolimorfismo.ex01.application;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

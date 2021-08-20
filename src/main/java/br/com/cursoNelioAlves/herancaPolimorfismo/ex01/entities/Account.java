@@ -1,4 +1,4 @@
-package br.com.cursoNelioAlves.heranca.sobreposicao.entities;
+package br.com.cursoNelioAlves.herancaPolimorfismo.ex01.entities;
 
 public class Account {
 
@@ -17,17 +17,14 @@ public class Account {
     }
 
     public Integer getNumber() {
-
         return number;
     }
 
     public void setNumber(Integer number) {
-
         this.number = number;
     }
 
     public String getHolder() {
-
         return holder;
     }
 
@@ -36,17 +33,14 @@ public class Account {
     }
 
     public Double getBalance() {
-
         return balance;
     }
 
     public void withdraw(double amount) {
-
-        balance -= amount + 5.0;
+        balance -= amount;
     }
 
     public void deposit(double amount) {
-
         balance += amount;
     }
 }

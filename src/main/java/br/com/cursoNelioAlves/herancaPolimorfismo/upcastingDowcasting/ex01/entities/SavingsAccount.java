@@ -1,6 +1,6 @@
-package br.com.cursoNelioAlves.heranca.sobreposicao.entities;
+package br.com.cursoNelioAlves.herancaPolimorfismo.upcastingDowcasting.ex01.entities;
 
-public class SavingsAccount extends Account {
+public class SavingsAccount extends Account{
 
     private double interestRate;
 
@@ -24,10 +24,4 @@ public class SavingsAccount extends Account {
     public void updateBalance() {
         balance += balance * interestRate;
     }
-
-    @Override
-    public void withdraw(double amount) {
-        balance -= amount;
-    }
-
 }

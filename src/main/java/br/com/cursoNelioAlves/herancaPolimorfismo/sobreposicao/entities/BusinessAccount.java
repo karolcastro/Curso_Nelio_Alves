@@ -1,6 +1,6 @@
-package br.com.cursoNelioAlves.heranca.ex01.entities;
+package br.com.cursoNelioAlves.herancaPolimorfismo.sobreposicao.entities;
 
-public class BusinessAccount extends Account{
+public class BusinessAccount extends Account {
 
     private Double loanLimit;
 
@@ -25,5 +25,11 @@ public class BusinessAccount extends Account{
         if (amount <= loanLimit) {
             balance += amount - 10.0;
         }
+    }
+
+    @Override
+    public void withdraw(double amount) {
+        super.withdraw(amount);
+        balance -= 2.0;
     }
 }

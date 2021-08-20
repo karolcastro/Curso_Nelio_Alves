@@ -1,8 +1,8 @@
-package br.com.cursoNelioAlves.heranca.upcastingDowcasting.ex01.application;
+package br.com.cursoNelioAlves.herancaPolimorfismo.upcastingDowcasting.ex01.application;
 
-import br.com.cursoNelioAlves.heranca.upcastingDowcasting.ex01.entities.Account;
-import br.com.cursoNelioAlves.heranca.upcastingDowcasting.ex01.entities.BusinessAccount;
-import br.com.cursoNelioAlves.heranca.upcastingDowcasting.ex01.entities.SavingsAccount;
+import br.com.cursoNelioAlves.herancaPolimorfismo.upcastingDowcasting.ex01.entities.Account;
+import br.com.cursoNelioAlves.herancaPolimorfismo.upcastingDowcasting.ex01.entities.BusinessAccount;
+import br.com.cursoNelioAlves.herancaPolimorfismo.upcastingDowcasting.ex01.entities.SavingsAccount;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package br.com.cursoNelioAlves.heranca.upcastingDowcasting.ex01.entities;
+package br.com.cursoNelioAlves.herancaPolimorfismo.upcastingDowcasting.ex01.entities;
 
 public class Account {
 
