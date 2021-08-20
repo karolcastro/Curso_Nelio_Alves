@@ -34,7 +34,6 @@ public class ClientProgram {
 
         System.out.println();
         System.out.println("Enter order data: ");
-        String orderData = sc.nextLine();
 
         System.out.print("Status: ");
         OrderStatus orderStatus = OrderStatus.valueOf(sc.next());
@@ -43,8 +42,6 @@ public class ClientProgram {
 
         System.out.println();
         System.out.print("How many items to this order? ");
-
-
         int manyItems = sc.nextInt();
 
         for (int i =1; i <= manyItems; i++) {

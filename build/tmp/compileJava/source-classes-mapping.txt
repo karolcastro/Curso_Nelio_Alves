@@ -12,8 +12,8 @@ br/com/cursoNelioAlves/vetoresArrays/listas/employees/entities/Employees.java
  br.com.cursoNelioAlves.vetoresArrays.listas.employees.entities.Employees
 br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/student/entities/StudentEntities.java
  br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.student.entities.StudentEntities
-br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/entities/Client.java
- br.com.cursoNelioAlves.enumeracaoComposicao.composicaoEx.entities.Client
+br/com/cursoNelioAlves/enumeracaoComposicao/orderStatusEx/entities/OrderEntities.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.orderStatusEx.entities.OrderEntities
 br/com/cursoNelioAlves/orientacaoAObjetos/ExercicioSemOrientacaoAObjetos.java
  br.com.cursoNelioAlves.orientacaoAObjetos.ExercicioSemOrientacaoAObjetos
 br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/triangle/application/ExercicioComOrientacaoAObjetos.java
@@ -24,8 +24,8 @@ br/com/cursoNelioAlves/construtores/product/entities/Product.java
  br.com.cursoNelioAlves.construtores.product.entities.Product
 br/com/cursoNelioAlves/vetoresArrays/Exemplo01.java
  br.com.cursoNelioAlves.vetoresArrays.Exemplo01
-br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/entities/OrderStatus.java
- br.com.cursoNelioAlves.enumeracaoComposicao.composicaoEx.entities.OrderStatus
+br/com/cursoNelioAlves/topicosEspeciaisDateCalendar/SomandoDatas.java
+ br.com.cursoNelioAlves.topicosEspeciaisDateCalendar.SomandoDatas
 br/com/cursoNelioAlves/topicosBasicosJava/Bitwise.java
  br.com.cursoNelioAlves.topicosBasicosJava.Bitwise
 br/com/cursoNelioAlves/estruturaSequencial/Exercicio04.java
@@ -69,8 +69,8 @@ br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/product
  br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.product.application.Program
 br/com/cursoNelioAlves/vetoresArrays/matriz/MatrizProgram.java
  br.com.cursoNelioAlves.vetoresArrays.matriz.MatrizProgram
-br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/entities/OrderItem.java
- br.com.cursoNelioAlves.enumeracaoComposicao.composicaoEx.entities.OrderItem
+br/com/cursoNelioAlves/orientacaoAObjetos/membrosEstaticos/calculator/utils/CalculatorUtils.java
+ br.com.cursoNelioAlves.orientacaoAObjetos.membrosEstaticos.calculator.utils.CalculatorUtils
 br/com/cursoNelioAlves/estruturaSequencial/Exercicio06.java
  br.com.cursoNelioAlves.estruturaSequencial.Exercicio06
 br/com/cursoNelioAlves/estruturaCondicional/Exercicio08.java
@@ -147,13 +147,15 @@ br/com/cursoNelioAlves/enumeracaoComposicao/composicao/entities/WorkerLevel.java
  br.com.cursoNelioAlves.enumeracaoComposicao.composicao.entities.WorkerLevel
 br/com/cursoNelioAlves/estruturaCondicional/EstruturaCondicionalSimplesExemplo01.java
  br.com.cursoNelioAlves.estruturaCondicional.EstruturaCondicionalSimplesExemplo01
-br/com/cursoNelioAlves/enumeracaoComposicao/orderStatusEx/entities/OrderEntities.java
- br.com.cursoNelioAlves.enumeracaoComposicao.orderStatusEx.entities.OrderEntities
-br/com/cursoNelioAlves/orientacaoAObjetos/membrosEstaticos/calculator/utils/CalculatorUtils.java
- br.com.cursoNelioAlves.orientacaoAObjetos.membrosEstaticos.calculator.utils.CalculatorUtils
-br/com/cursoNelioAlves/topicosEspeciaisDateCalendar/SomandoDatas.java
- br.com.cursoNelioAlves.topicosEspeciaisDateCalendar.SomandoDatas
 br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/entities/Order.java
  br.com.cursoNelioAlves.enumeracaoComposicao.composicaoEx.entities.Order
+br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/entities/OrderItem.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicaoEx.entities.OrderItem
+br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/entities/OrderStatus.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicaoEx.entities.OrderStatus
+br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/entities/Product.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicaoEx.entities.Product
 br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/application/ClientProgram.java
  br.com.cursoNelioAlves.enumeracaoComposicao.composicaoEx.application.ClientProgram
+br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/entities/Client.java
+ br.com.cursoNelioAlves.enumeracaoComposicao.composicaoEx.entities.Client
