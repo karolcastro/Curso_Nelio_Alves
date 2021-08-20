@@ -44,10 +44,6 @@ public class Order {
         this.client = client;
     }
 
-    public List<OrderItem> getItems() {
-        return items;
-    }
-
     public void addItem(OrderItem item) {
         items.add(item);
     }
@@ -56,10 +52,10 @@ public class Order {
         items.remove(item);
     }
 
-    public Double total() {
+    public double total() {
         double sum = 0.00;
         for (OrderItem item : items) {
-            sum += item.subtotal();
+            sum = sum + item.subTotal();
         }
         return sum;
     }
