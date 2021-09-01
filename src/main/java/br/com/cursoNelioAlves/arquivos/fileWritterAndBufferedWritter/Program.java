@@ -9,7 +9,7 @@ public class Program {
 
         String path = ("//Users//knigosky//Downloads//_Lorem IpsumOut.txt");
 
-        try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(path))) {
+        try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(path,true))) {
 
             for (String line : lines) {
                 bufferedWriter.write(line);
