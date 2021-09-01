@@ -9,7 +9,7 @@ public class Program {
     public static void main(String[] args) {
 
 
-        String path = ("//Users//knigosky//Downloads//_Lorem Ipsum.docx");
+        String path = ("//Users//knigosky//Downloads//_Lorem Ipsum.txt");
         FileReader fileReader = null;
         BufferedReader bufferedReader = null;
 
@@ -23,9 +23,11 @@ public class Program {
                 System.out.println(line);
                 line = bufferedReader.readLine();
             }
-        } catch (IOException e) {
+        }
+        catch (IOException e) {
             System.out.println("Error: " + e.getMessage());
-        } finally {
+        }
+        finally {
             try {
 
                 if (bufferedReader != null) {
