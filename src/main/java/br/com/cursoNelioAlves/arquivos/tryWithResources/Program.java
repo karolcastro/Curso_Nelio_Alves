@@ -19,8 +19,7 @@ public class Program {
                 System.out.println(line);
                 line = bufferedReader1.readLine();
             }
-        }
-        catch (IOException e) {
+        } catch (IOException e) {
             System.out.println("Error: " + e.getMessage());
         }
     }

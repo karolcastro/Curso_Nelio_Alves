@@ -193,3 +193,5 @@ br/com/cursoNelioAlves/arquivos/fileReaderAndBufferedReader/Program.java
  br.com.cursoNelioAlves.arquivos.fileReaderAndBufferedReader.Program
 br/com/cursoNelioAlves/arquivos/tryWithResources/Program.java
  br.com.cursoNelioAlves.arquivos.tryWithResources.Program
+br/com/cursoNelioAlves/arquivos/fileWritterAndBufferedWritter/Program.java
+ br.com.cursoNelioAlves.arquivos.fileWritterAndBufferedWritter.Program
