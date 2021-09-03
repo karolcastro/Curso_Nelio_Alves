@@ -2,6 +2,8 @@ br/com/cursoNelioAlves/estruturaRepetitiva/estruturaRepetitivaFor/Exercicio01.ja
  br.com.cursoNelioAlves.estruturaRepetitiva.estruturaRepetitivaFor.Exercicio01
 br/com/cursoNelioAlves/estruturaCondicional/Exercicio04.java
  br.com.cursoNelioAlves.estruturaCondicional.Exercicio04
+br/com/cursoNelioAlves/interfaces/exercicioInicial/model/services/BrazilTaxService.java
+ br.com.cursoNelioAlves.interfaces.exercicioInicial.model.services.BrazilTaxService
 br/com/cursoNelioAlves/herancaPolimorfismo/polimorfismo/entities/OutsourcedEmployee.java
  br.com.cursoNelioAlves.herancaPolimorfismo.polimorfismo.entities.OutsourcedEmployee
 br/com/cursoNelioAlves/arquivos/fileAndScanner/Program.java
@@ -14,6 +16,8 @@ br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/triangl
  br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.triangle.application.ExercicioComOrientacaoAObjetos
 br/com/cursoNelioAlves/topicosBasicosJava/HigherNumberWithMax.java
  br.com.cursoNelioAlves.topicosBasicosJava.HigherNumberWithMax
+br/com/cursoNelioAlves/interfaces/exercicioInicial/model/services/RentalService.java
+ br.com.cursoNelioAlves.interfaces.exercicioInicial.model.services.RentalService
 br/com/cursoNelioAlves/construtores/product/entities/Product.java
  br.com.cursoNelioAlves.construtores.product.entities.Product
 br/com/cursoNelioAlves/herancaPolimorfismo/sobreposicao/entities/SavingsAccount.java
@@ -34,6 +38,8 @@ br/com/cursoNelioAlves/estruturaSequencial/Exercicio03.java
  br.com.cursoNelioAlves.estruturaSequencial.Exercicio03
 br/com/cursoNelioAlves/estruturaCondicional/Exercicio05.java
  br.com.cursoNelioAlves.estruturaCondicional.Exercicio05
+br/com/cursoNelioAlves/interfaces/exercicioInicial/model/entities/CarRental.java
+ br.com.cursoNelioAlves.interfaces.exercicioInicial.model.entities.CarRental
 br/com/cursoNelioAlves/estruturaCondicional/Exercicio02.java
  br.com.cursoNelioAlves.estruturaCondicional.Exercicio02
 br/com/cursoNelioAlves/herancaPolimorfismo/ex01/entities/Account.java
@@ -50,10 +56,14 @@ br/com/cursoNelioAlves/estruturaSequencial/Exercicio06.java
  br.com.cursoNelioAlves.estruturaSequencial.Exercicio06
 br/com/cursoNelioAlves/estruturaRepetitiva/Exercicio01.java
  br.com.cursoNelioAlves.estruturaRepetitiva.Exercicio01
+br/com/cursoNelioAlves/arquivos/exercicio/application/Program.java
+ br.com.cursoNelioAlves.arquivos.exercicio.application.Program
 br/com/cursoNelioAlves/estruturaCondicional/Exercicio01.java
  br.com.cursoNelioAlves.estruturaCondicional.Exercicio01
 br/com/cursoNelioAlves/enumeracaoComposicao/orderStatusEx/application/OrderStatusPro.java
  br.com.cursoNelioAlves.enumeracaoComposicao.orderStatusEx.application.OrderStatusPro
+br/com/cursoNelioAlves/interfaces/exercicioInicial/model/entities/Invoice.java
+ br.com.cursoNelioAlves.interfaces.exercicioInicial.model.entities.Invoice
 br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/retangulo/application/RetanguloProgram.java
  br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.retangulo.application.RetanguloProgram
 br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/student/applicaton/StudentProgram.java
@@ -86,6 +96,8 @@ br/com/cursoNelioAlves/enumeracaoComposicao/composicao/entities/WorkerLevel.java
  br.com.cursoNelioAlves.enumeracaoComposicao.composicao.entities.WorkerLevel
 br/com/cursoNelioAlves/orientacaoAObjetos/membrosEstaticos/calculator/utils/CalculatorUtils.java
  br.com.cursoNelioAlves.orientacaoAObjetos.membrosEstaticos.calculator.utils.CalculatorUtils
+br/com/cursoNelioAlves/arquivos/caminhoDoArquivo/Program.java
+ br.com.cursoNelioAlves.arquivos.caminhoDoArquivo.Program
 br/com/cursoNelioAlves/arquivos/fileReaderAndBufferedReader/Program.java
  br.com.cursoNelioAlves.arquivos.fileReaderAndBufferedReader.Program
 br/com/cursoNelioAlves/arquivos/tryWithResources/Program.java
@@ -98,8 +110,12 @@ br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/triangl
  br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.triangle.entities.Triangle
 br/com/cursoNelioAlves/herancaPolimorfismo/upcastingDowcasting/ex01/entities/BusinessAccount.java
  br.com.cursoNelioAlves.herancaPolimorfismo.upcastingDowcasting.ex01.entities.BusinessAccount
+br/com/cursoNelioAlves/herancaPolimorfismo/ex01/application/AccountProgram.java
+ br.com.cursoNelioAlves.herancaPolimorfismo.ex01.application.AccountProgram
 br/com/cursoNelioAlves/vetoresArrays/listas/employees/entities/Employees.java
  br.com.cursoNelioAlves.vetoresArrays.listas.employees.entities.Employees
+br/com/cursoNelioAlves/arquivos/exercicio/entities/Product.java
+ br.com.cursoNelioAlves.arquivos.exercicio.entities.Product
 br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/student/entities/StudentEntities.java
  br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.student.entities.StudentEntities
 br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/entities/Client.java
@@ -108,6 +124,8 @@ br/com/cursoNelioAlves/herancaPolimorfismo/upcastingDowcasting/ex01/entities/Acc
  br.com.cursoNelioAlves.herancaPolimorfismo.upcastingDowcasting.ex01.entities.Account
 br/com/cursoNelioAlves/vetoresArrays/Exemplo01.java
  br.com.cursoNelioAlves.vetoresArrays.Exemplo01
+br/com/cursoNelioAlves/interfaces/exercicioInicial/model/entities/Vehicle.java
+ br.com.cursoNelioAlves.interfaces.exercicioInicial.model.entities.Vehicle
 br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/entities/OrderStatus.java
  br.com.cursoNelioAlves.enumeracaoComposicao.composicaoEx.entities.OrderStatus
 br/com/cursoNelioAlves/herancaPolimorfismo/polimorfismo/application/Outsource.java
@@ -163,8 +181,8 @@ br/com/cursoNelioAlves/orientacaoAObjetos/exercicioComOrientacaoAObjetos/encapsu
  br.com.cursoNelioAlves.orientacaoAObjetos.exercicioComOrientacaoAObjetos.encapsulamento.application.EncapsulamentoProgram
 br/com/cursoNelioAlves/estruturaSequencial/Exercicio01.java
  br.com.cursoNelioAlves.estruturaSequencial.Exercicio01
-br/com/cursoNelioAlves/herancaPolimorfismo/ex01/application/AccountProgram.java
- br.com.cursoNelioAlves.herancaPolimorfismo.ex01.application.AccountProgram
+br/com/cursoNelioAlves/arquivos/manipulandoPastas/Program.java
+ br.com.cursoNelioAlves.arquivos.manipulandoPastas.Program
 br/com/cursoNelioAlves/estruturaSequencial/ExercicioEntradaDeDadosTexto.java
  br.com.cursoNelioAlves.estruturaSequencial.ExercicioEntradaDeDadosTexto
 br/com/cursoNelioAlves/vetoresArrays/listas/ListProgram.java
@@ -195,5 +213,5 @@ br/com/cursoNelioAlves/enumeracaoComposicao/composicaoEx/entities/Product.java
  br.com.cursoNelioAlves.enumeracaoComposicao.composicaoEx.entities.Product
 br/com/cursoNelioAlves/estruturaRepetitiva/estruturaRepetitivaFor/Exercicio03.java
  br.com.cursoNelioAlves.estruturaRepetitiva.estruturaRepetitivaFor.Exercicio03
-br/com/cursoNelioAlves/arquivos/manipulandoPastas/Program.java
- br.com.cursoNelioAlves.arquivos.manipulandoPastas.Program
+br/com/cursoNelioAlves/interfaces/exercicioInicial/application/Program.java
+ br.com.cursoNelioAlves.interfaces.exercicioInicial.application.Program
