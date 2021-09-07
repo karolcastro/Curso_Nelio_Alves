@@ -59,14 +59,17 @@ public class Worker {
     }
 
     public List<HourContract> getContracts() {
+
         return contracts;
     }
 
     public void addContract(HourContract contract) {
+
         contracts.add(contract);
     }
 
     public void removeContract(HourContract contract) {
+
         contracts.remove(contract);
     }
 
